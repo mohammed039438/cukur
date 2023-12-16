@@ -1,0 +1,3 @@
+int name ="wael"
+print("wael")
+from PIL import image
